@@ -1,6 +1,7 @@
 # Simple Interest Calculator
 
 Questo progetto contiene uno script Bash che calcola l'interesse semplice dato un capitale, un tasso d'interesse annuale e un periodo in anni.
+EfFettuo qualche modifica
 
 ## Utilizzo
 
